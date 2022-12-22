@@ -12,12 +12,14 @@ All things were done while keeping website to look as is.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Link to see deployed finished project: https://alc0ve.github.io/Horiseon-Project/
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+
+Screenshot of deployed webpage:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](Develop/assets/images/Screenshot-of-Horiseon.png)
     ```
 
 ## Credits
@@ -25,7 +27,3 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 Thank you to Celeste, the TA, for helping me get started. 
 Thank you to Scott M., the tutor, to provide tips and tricks.
 Thank you to a lot of my classmates going through this with me!!!
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
